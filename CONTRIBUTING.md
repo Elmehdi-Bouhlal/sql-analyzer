@@ -7,6 +7,6 @@
 3. Make your changes
 4. Submit a pull request
 
-## Report Issues
+## Reports Issues
 
 Open an issue with a clear description of the problem.
