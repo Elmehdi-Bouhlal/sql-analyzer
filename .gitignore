@@ -1,9 +1,6 @@
 # Error logs
 errors_*.txt
 
-# SQL files (may contain sensitive data)
-*.sql
-
 # IDE
 .idea/
 .vscode/
