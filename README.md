@@ -229,7 +229,7 @@ MIT License
 
 ## Author
 
-[Your Name]
+[Elmehdi Bouhlal]
 
 ## Changelog
 
